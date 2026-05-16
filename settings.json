@@ -10,7 +10,7 @@
 
   "server": {
     "ip": "CentralSide.aternos.me",
-    "port": 25565,
+    "port": 16817,
     "version": "1.21.1",
     "try-creative": false
   },
